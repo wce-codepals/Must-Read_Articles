@@ -11,3 +11,12 @@ https://web.archive.org/web/20120228184850/http://www.tildefrugal.net:80/tech/ar
 
 * Elastic Load Balancing with Sticky Sessions</br>
 https://shlomoswidler.com/2010/04/08/elastic-load-balancing-with-sticky-sessions/
+
+
+## Caching 
+
+* Cache Invalidation</br>
+https://shahriar.svbtle.com/Understanding-writethrough-writearound-and-writeback-caching-with-python
+
+* Cache Eviction: When Are Randomized Algorithms Better Than LRU?</br>
+https://news.ycombinator.com/item?id=19188642
