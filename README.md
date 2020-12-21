@@ -16,6 +16,11 @@ https://shlomoswidler.com/2010/04/08/elastic-load-balancing-with-sticky-sessions
 https://www.toptal.com/big-data/consistent-hashing#:~:text=Consistent%20Hashing%20is%20a%20distributed,without%20affecting%20the%20overall%20system.
 
 
+* Amazon's Dynamo
+https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html
+
+
+
 ## Caching 
 
 * Cache Invalidation</br>
